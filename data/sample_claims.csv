@@ -1,0 +1,6 @@
+insurance_id,age,symptoms,cost_estimation,hospitalized,is_fraudulent
+A101,35,fever,8000,yes,0
+A102,60,fracture,25000,yes,0
+A103,29,fever,18000,no,1
+A104,45,diabetes,12000,yes,0
+A105,38,injury,150000,no,1
